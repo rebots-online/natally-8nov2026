@@ -1,0 +1,817 @@
+{
+  "schema": "natally.asset-manifest/v1",
+  "generatedAt": "2026-11-08",
+  "policy": "Byte-for-byte copies of the original files from natally-ai-studio (read-only source). No regenerated, redrawn or substituted graphics; filenames, transparency, dimensions and variants preserved. Originals unaltered.",
+  "counts": {
+    "files": 99,
+    "totalBytes": 24631856
+  },
+  "files": [
+    {
+      "source": "public/natally-mascot.webp",
+      "destination": "public/natally-mascot.webp",
+      "sha256": "a40780bad977525afdd6c7f92ed47a4b0ba090b1453921a0ad4248208301f873",
+      "bytes": 1777004,
+      "role": "Mascot master: animated WebP (idle animation); puppet source for the atelier rig"
+    },
+    {
+      "source": "public/favicon.ico",
+      "destination": "public/favicon.ico",
+      "sha256": "0deae80a89b80482cd7816056d97179eb8b4fb6ab81bfa1e52954c16ce990a56",
+      "bytes": 187032,
+      "role": "Web favicon (multi-size ICO)"
+    },
+    {
+      "source": "public/favicon-32.png",
+      "destination": "public/favicon-32.png",
+      "sha256": "01676a4ce01c56a558d1af068e6af8845575e889ca6ad6797d7addd5832fe0f0",
+      "bytes": 3457,
+      "role": "Web favicon 32px"
+    },
+    {
+      "source": "public/atelier/room.webp",
+      "destination": "public/atelier/room.webp",
+      "sha256": "dfedbddc9e098a1a5eff1ad2055978a4581fda235892e15c42b6ddf8e5265b5a",
+      "bytes": 277480,
+      "role": "Atelier room graphic: shaded composite scene"
+    },
+    {
+      "source": "public/atelier/poster.webp",
+      "destination": "public/atelier/poster.webp",
+      "sha256": "75a9c52d28b1a038021aff6cef74e2ef4631f10ef698464e3379df7631f6f75b",
+      "bytes": 138536,
+      "role": "Atelier room graphic: independent static poster fallback"
+    },
+    {
+      "source": "public/atelier/puppet-cleanplate.webp",
+      "destination": "public/atelier/puppet-cleanplate.webp",
+      "sha256": "eae79357aefb93eceb20bac08938914b424b1f7bf8030fd4440699032a5b53db",
+      "bytes": 266970,
+      "role": "Atelier puppet rig: head/forearm clean plate (original art)"
+    },
+    {
+      "source": "public/atelier/manifest.json",
+      "destination": "public/atelier/manifest.json",
+      "sha256": "614a7fe16798e4a4bc1ade079682657ca03b99ffe55f5e065a77566833928b07",
+      "bytes": 792,
+      "role": "Atelier scene asset descriptor: dimensions + per-asset sha256"
+    },
+    {
+      "source": "public/atelier/audio/bowlingball.mp3",
+      "destination": "public/atelier/audio/bowlingball.mp3",
+      "sha256": "f7b4bbd6e71cf12c426b072888a40b1aa74bfa25b39bdae0b5a9ff25c1af49e6",
+      "bytes": 17179,
+      "role": "Atelier interaction sound effect (bowling ball)"
+    },
+    {
+      "source": "public/atelier/audio/brass-clatter.mp3",
+      "destination": "public/atelier/audio/brass-clatter.mp3",
+      "sha256": "a47ee03ab832c0fcbe71fc89f40bcec6d47d7ecb2a208acd692d8bc392b58b1a",
+      "bytes": 48944,
+      "role": "Atelier interaction sound effect (brass clatter)"
+    },
+    {
+      "source": "public/atelier/audio/chart-ambience.mp3",
+      "destination": "public/atelier/audio/chart-ambience.mp3",
+      "sha256": "705280737a74814e154bc9aeda676d5a428c75ea1f184479210997d1a6e08db3",
+      "bytes": 821333,
+      "role": "Atelier ambience loop (chart)"
+    },
+    {
+      "source": "public/atelier/audio/cookie-bite-crunch-v2.mp3",
+      "destination": "public/atelier/audio/cookie-bite-crunch-v2.mp3",
+      "sha256": "d207c3c2fddff9ebe11eaaac5fec1fde4a15b144a43c3221a522dea97a5a7c30",
+      "bytes": 48944,
+      "role": "Atelier interaction sound effect (cookie bite v2)"
+    },
+    {
+      "source": "public/atelier/audio/cookie-bite-crunch.mp3",
+      "destination": "public/atelier/audio/cookie-bite-crunch.mp3",
+      "sha256": "8cdc9880248985236c7c948238a03b4eb590812309607af5edba929ed81ad014",
+      "bytes": 40585,
+      "role": "Atelier interaction sound effect (cookie bite v1)"
+    },
+    {
+      "source": "public/atelier/audio/crystal-break.mp3",
+      "destination": "public/atelier/audio/crystal-break.mp3",
+      "sha256": "4401c0aeb45c98fcdb943f27a5907cad811e753bb533a8a7d03361d84d7e26d1",
+      "bytes": 48944,
+      "role": "Atelier interaction sound effect (crystal break)"
+    },
+    {
+      "source": "public/atelier/audio/glass-shatter.mp3",
+      "destination": "public/atelier/audio/glass-shatter.mp3",
+      "sha256": "09e7755fbb7418e48aad13ce0e784f1cb211dd38ed87d1a488fc5c410ee56cac",
+      "bytes": 48944,
+      "role": "Atelier interaction sound effect (glass shatter)"
+    },
+    {
+      "source": "public/atelier/audio/shelf-wobble.mp3",
+      "destination": "public/atelier/audio/shelf-wobble.mp3",
+      "sha256": "dd2765772b5e6cff7aa822f9d053892df71797cd95fc5c652853a8c1389265ae",
+      "bytes": 24702,
+      "role": "Atelier interaction sound effect (shelf wobble)"
+    },
+    {
+      "source": "public/atelier/audio/workshop-ambience.mp3",
+      "destination": "public/atelier/audio/workshop-ambience.mp3",
+      "sha256": "6ad94345e844c447f6b603c0b51f3b2f77a1c638fb4facbc127280be7e0e1587",
+      "bytes": 821333,
+      "role": "Atelier ambience loop (workshop)"
+    },
+    {
+      "source": "public/branding/180x180.png",
+      "destination": "public/branding/180x180.png",
+      "sha256": "56d2e518e589d61253aa63aa4c914d9449ac617cc842540e2fd414089fda1b31",
+      "bytes": 84775,
+      "role": "Apple touch icon 180px"
+    },
+    {
+      "source": "public/branding/192x192.png",
+      "destination": "public/branding/192x192.png",
+      "sha256": "affd59a5874070376856ef351f232e5988ad4b0369a00ec6c6f72a0921dd19d0",
+      "bytes": 95032,
+      "role": "PWA icon 192px"
+    },
+    {
+      "source": "public/branding/512x512.png",
+      "destination": "public/branding/512x512.png",
+      "sha256": "d5a17305362ba7ad45febf2a0d0a70604c684217542868e7cd259535bea6d894",
+      "bytes": 547168,
+      "role": "PWA icon 512px"
+    },
+    {
+      "source": "public/branding/natally-guide.png",
+      "destination": "public/branding/natally-guide.png",
+      "sha256": "a1a7238ab7b764975f4d2374347b997e1c55388c597ceade1626b147d8dd1af5",
+      "bytes": 1851335,
+      "role": "Icon guide layer: transparent mascot cutout, three-quarter pointing pose"
+    },
+    {
+      "source": "public/branding/natally-guide-512.png",
+      "destination": "public/branding/natally-guide-512.png",
+      "sha256": "ef4399c7a0fa94efaf9409200d169bbafece47bcc0466a5899ef56a9812164f6",
+      "bytes": 379564,
+      "role": "Icon guide layer 512px"
+    },
+    {
+      "source": "public/branding/natally-hero-google.jpg",
+      "destination": "public/branding/natally-hero-google.jpg",
+      "sha256": "20f54411e49703ceff5d72daab612aa1bac96a1093e91ed3a2e39e7020431910",
+      "bytes": 520017,
+      "role": "Google Play store hero graphic"
+    },
+    {
+      "source": "public/branding/natally-icon-master.png",
+      "destination": "public/branding/natally-icon-master.png",
+      "sha256": "1fae657a3774070920efca5fe9d664dad1af48090cc31e909d122f5e530d377c",
+      "bytes": 2692678,
+      "role": "Icon master: square app icon composition (chart beside head)"
+    },
+    {
+      "source": "public/branding/icon-provenance.json",
+      "destination": "public/branding/icon-provenance.json",
+      "sha256": "6ac7960c37c669827f9587122036eabc387ec19c8af29e43365df4e7dbd0d3fc",
+      "bytes": 1154,
+      "role": "Icon provenance record (master/guide hashes, composition, prompts)"
+    },
+    {
+      "source": "public/marketing-assets/natally-paywall-original.webp",
+      "destination": "public/marketing-assets/natally-paywall-original.webp",
+      "sha256": "8766fb9ed3c23e4571c864e9b433366e643a066743e43418062e0b2f0dc6ae95",
+      "bytes": 168450,
+      "role": "Mascot paywall portrait (marketing copy)"
+    },
+    {
+      "source": "public/marketing-assets/natally-still.webp",
+      "destination": "public/marketing-assets/natally-still.webp",
+      "sha256": "05f7b2fc0f4fb160d85a8bd7a8cf4e27eedb48e3c70fac5607eab1cbed42f5db",
+      "bytes": 31106,
+      "role": "Mascot static still (fallback/marketing)"
+    },
+    {
+      "source": "public/paywall/natally-original.webp",
+      "destination": "public/paywall/natally-original.webp",
+      "sha256": "8766fb9ed3c23e4571c864e9b433366e643a066743e43418062e0b2f0dc6ae95",
+      "bytes": 168450,
+      "role": "Mascot paywall portrait (app copy; byte-identical to marketing copy)"
+    },
+    {
+      "source": "public/voice/waiting/closer.wav",
+      "destination": "public/voice/waiting/closer.wav",
+      "sha256": "a23ef29ff3ed14f99e7521aec7e1ed097283fdd8b1814f49d92ce0b196143c45",
+      "bytes": 184556,
+      "role": "Pre-rendered waiting voice cue \"Closing/approach cue\" (Supertonic voice F4)"
+    },
+    {
+      "source": "public/voice/waiting/look-v2.wav",
+      "destination": "public/voice/waiting/look-v2.wav",
+      "sha256": "a23ef29ff3ed14f99e7521aec7e1ed097283fdd8b1814f49d92ce0b196143c45",
+      "bytes": 184556,
+      "role": "Pre-rendered waiting voice cue \"Let me take a closer look. (v2)\" (Supertonic voice F4)"
+    },
+    {
+      "source": "public/voice/waiting/look-v3.wav",
+      "destination": "public/voice/waiting/look-v3.wav",
+      "sha256": "db80fba0bdcb1c66d3956c40f3bb6891bbb935eba49ba1902f458a0e91b921a1",
+      "bytes": 184556,
+      "role": "Pre-rendered waiting voice cue \"Let me take a closer look. (v3)\" (Supertonic voice F4)"
+    },
+    {
+      "source": "public/voice/waiting/look.wav",
+      "destination": "public/voice/waiting/look.wav",
+      "sha256": "948f8f13db09f4d89662f9a536df4b7ea80ea4be52caf8829766b0addd678a00",
+      "bytes": 160640,
+      "role": "Pre-rendered waiting voice cue \"Let me take a closer look.\" (Supertonic voice F4)"
+    },
+    {
+      "source": "public/voice/waiting/moment-v2.wav",
+      "destination": "public/voice/waiting/moment-v2.wav",
+      "sha256": "a262a67f60297119855a0cebd11e72f39a481e30fb280e23440bb39f19664bf4",
+      "bytes": 140200,
+      "role": "Pre-rendered waiting voice cue \"Give me a moment. (v2)\" (Supertonic voice F4)"
+    },
+    {
+      "source": "public/voice/waiting/moment-v3.wav",
+      "destination": "public/voice/waiting/moment-v3.wav",
+      "sha256": "14a5261afa62547f89bbefb07e13d1e17fca7a530a74b3838289bbd0ac673862",
+      "bytes": 140200,
+      "role": "Pre-rendered waiting voice cue \"Give me a moment. (v3)\" (Supertonic voice F4)"
+    },
+    {
+      "source": "public/voice/waiting/moment.wav",
+      "destination": "public/voice/waiting/moment.wav",
+      "sha256": "3b378b65fd9477cb781ce52b41d1149d35d8fa7022b5008fd4873ffcddd89573",
+      "bytes": 181974,
+      "role": "Pre-rendered waiting voice cue \"Give me a moment.\" (Supertonic voice F4)"
+    },
+    {
+      "source": "public/voice/waiting/provenance.json",
+      "destination": "public/voice/waiting/provenance.json",
+      "sha256": "5f1a5b4988ba9531340c35addedda6c8adf719351acd802ca6b9e9a3542f4b38",
+      "bytes": 489,
+      "role": "Voice cue provenance: Supertonic model id/revision/voice/phrases"
+    },
+    {
+      "source": "public/voice/waiting/thread-v2.wav",
+      "destination": "public/voice/waiting/thread-v2.wav",
+      "sha256": "c554e7730b1561566d04aa197b5888dd3b1652524bb8111c7b4a265063bfd0b1",
+      "bytes": 174928,
+      "role": "Pre-rendered waiting voice cue \"Let me follow that thread. (v2)\" (Supertonic voice F4)"
+    },
+    {
+      "source": "public/voice/waiting/thread-v3.wav",
+      "destination": "public/voice/waiting/thread-v3.wav",
+      "sha256": "f6b234c3cb91bbb73b78a92d2a7e6a5d7090ba8a014f80a089dd75524d929a83",
+      "bytes": 174928,
+      "role": "Pre-rendered waiting voice cue \"Let me follow that thread. (v3)\" (Supertonic voice F4)"
+    },
+    {
+      "source": "public/voice/waiting/thread.wav",
+      "destination": "public/voice/waiting/thread.wav",
+      "sha256": "c557ec4b242c50a0d791ed6062ce7ac4ea210002271baf82adedfa640b1f200c",
+      "bytes": 174928,
+      "role": "Pre-rendered waiting voice cue \"Let me follow that thread.\" (Supertonic voice F4)"
+    },
+    {
+      "source": "public/fonts/playfair-display-latin.woff2",
+      "destination": "public/fonts/playfair-display-latin.woff2",
+      "sha256": "e0c764a8e9e1cce92163c55bac4b2ad6cd4cf8c696ce2289ab5c41565e65b7e2",
+      "bytes": 38404,
+      "role": "Playfair Display latin woff2 (bundled display font)"
+    },
+    {
+      "source": "public/fonts/OFL-PlayfairDisplay.txt",
+      "destination": "public/fonts/OFL-PlayfairDisplay.txt",
+      "sha256": "0bb2b43ffd21233963b5d0c0eb6f1abffa776ec53c56131b5818708f2730ffd6",
+      "bytes": 4448,
+      "role": "Playfair Display SIL Open Font License 1.1 notice"
+    },
+    {
+      "source": "public/vendor/swisseph/swisseph.wasm",
+      "destination": "public/vendor/swisseph/swisseph.wasm",
+      "sha256": "a6e5f53cc39bac07f44b4ce54e5f90f6bd1e25b6d20df2ea0bc4c1374d09842c",
+      "bytes": 561871,
+      "role": "Swiss Ephemeris WASM binary (AGPL-licensed third-party ephemeris engine)"
+    },
+    {
+      "source": "public/vendor/swisseph/swisseph.data",
+      "destination": "public/vendor/swisseph/swisseph.data",
+      "sha256": "1aac44b2ea3dfe668a063ed29dada99a7a96d8fa22fdce626cdf9e270b084ed0",
+      "bytes": 2151204,
+      "role": "Swiss Ephemeris static ephemeris dataset"
+    },
+    {
+      "source": "public/vendor/swisseph/swisseph.js",
+      "destination": "public/vendor/swisseph/swisseph.js",
+      "sha256": "f645827dc8620c058101aa2373bd1254c679c2eeb5a6a80e97a1528bfac5df36",
+      "bytes": 74272,
+      "role": "swisseph-wasm emscripten loader (vendored GPL-3.0-or-later third-party glue; not Natally app code)"
+    },
+    {
+      "source": "public/notices/Swiss-Ephemeris-LICENSE.txt",
+      "destination": "public/notices/Swiss-Ephemeris-LICENSE.txt",
+      "sha256": "b6345743292c516d07799dfad46f1a641e5270da2160cc4d6bd54594d6faa991",
+      "bytes": 2371,
+      "role": "Swiss Ephemeris upstream licence notice"
+    },
+    {
+      "source": "public/notices/swisseph-wasm-LICENSE.txt",
+      "destination": "public/notices/swisseph-wasm-LICENSE.txt",
+      "sha256": "15808ad767befd8452067f96e191f7e32fbc22a19d1aa2b12967eefa743ee147",
+      "bytes": 1498,
+      "role": "swisseph-wasm wrapper licence notice"
+    },
+    {
+      "source": "public/notices/THIRD-PARTY-NOTICES.txt",
+      "destination": "public/notices/THIRD-PARTY-NOTICES.txt",
+      "sha256": "915f5af24d92ff5b14edf3010c7af281062d1e4e88ed6f153ce78a6c83ddc3c0",
+      "bytes": 149549,
+      "role": "Third-party notices inventory"
+    },
+    {
+      "source": "public/notices/AGPL-3.0.txt",
+      "destination": "public/notices/AGPL-3.0.txt",
+      "sha256": "d8a6cc31abc16b6748c7a21f21611f5a1ec33f67d22ca23d7da1c19b95496bee",
+      "bytes": 34020,
+      "role": "AGPL-3.0 licence text served by the app"
+    },
+    {
+      "source": "src/services/gazetteer.json",
+      "destination": "public/data/gazetteer.json",
+      "sha256": "629e642cd0c83049a9aaa85e69da2beac3eda4d69984386bc30296fe691dec36",
+      "bytes": 17218,
+      "role": "GeoNames-keyed city/timezone lookup dataset (birth-chart locations)"
+    },
+    {
+      "source": "src-tauri/icons/128x128.png",
+      "destination": "public/native/icons/128x128.png",
+      "sha256": "0b089b809e0009744caf7bac6a378eaaba46520dda823c3893beb4ccae8af767",
+      "bytes": 45716,
+      "role": "Native app icon (desktop/iOS set; source of truth for src-tauri/icons in the rewrite)"
+    },
+    {
+      "source": "src-tauri/icons/128x128@2x.png",
+      "destination": "public/native/icons/128x128@2x.png",
+      "sha256": "526b1929e31d23558f89212245b13614a5b6a2e0702ac0b4da714a9191e1e246",
+      "bytes": 159245,
+      "role": "Native app icon (desktop/iOS set; source of truth for src-tauri/icons in the rewrite)"
+    },
+    {
+      "source": "src-tauri/icons/32x32.png",
+      "destination": "public/native/icons/32x32.png",
+      "sha256": "01676a4ce01c56a558d1af068e6af8845575e889ca6ad6797d7addd5832fe0f0",
+      "bytes": 3457,
+      "role": "Native app icon (desktop/iOS set; source of truth for src-tauri/icons in the rewrite)"
+    },
+    {
+      "source": "src-tauri/icons/64x64.png",
+      "destination": "public/native/icons/64x64.png",
+      "sha256": "43bc979ef48a39dd5d4eee8009d538fba5f2777df973d6a8e462b2421b5b73c0",
+      "bytes": 12551,
+      "role": "Native app icon (desktop/iOS set; source of truth for src-tauri/icons in the rewrite)"
+    },
+    {
+      "source": "src-tauri/icons/Square107x107Logo.png",
+      "destination": "public/native/icons/Square107x107Logo.png",
+      "sha256": "da1c51c82bc316d5db9c986b410964ebc0d93c9856222bc08da9bbbe8080ff8d",
+      "bytes": 32903,
+      "role": "Native app icon (desktop/iOS set; source of truth for src-tauri/icons in the rewrite)"
+    },
+    {
+      "source": "src-tauri/icons/Square142x142Logo.png",
+      "destination": "public/native/icons/Square142x142Logo.png",
+      "sha256": "45ad409b3bbbc5a1a4e94718b1326f275fa5f84bd3dd1028cf729a5a4a7601d7",
+      "bytes": 55380,
+      "role": "Native app icon (desktop/iOS set; source of truth for src-tauri/icons in the rewrite)"
+    },
+    {
+      "source": "src-tauri/icons/Square150x150Logo.png",
+      "destination": "public/native/icons/Square150x150Logo.png",
+      "sha256": "a197de3e5c0dbe706409e26eff78060d7f8649647c6752573a56fa05b780d931",
+      "bytes": 61050,
+      "role": "Native app icon (desktop/iOS set; source of truth for src-tauri/icons in the rewrite)"
+    },
+    {
+      "source": "src-tauri/icons/Square284x284Logo.png",
+      "destination": "public/native/icons/Square284x284Logo.png",
+      "sha256": "d95dacc6feadcb657ba22769141ae12cf79d721aededdd23e9987cf1810abb90",
+      "bytes": 191102,
+      "role": "Native app icon (desktop/iOS set; source of truth for src-tauri/icons in the rewrite)"
+    },
+    {
+      "source": "src-tauri/icons/Square30x30Logo.png",
+      "destination": "public/native/icons/Square30x30Logo.png",
+      "sha256": "5e281e6807c036397c1be395e405ad9e72666d6f7ed1bf17db8615e197ef8781",
+      "bytes": 3073,
+      "role": "Native app icon (desktop/iOS set; source of truth for src-tauri/icons in the rewrite)"
+    },
+    {
+      "source": "src-tauri/icons/Square310x310Logo.png",
+      "destination": "public/native/icons/Square310x310Logo.png",
+      "sha256": "0deb81ab228cbabc942992d87dc923c6cb7e2dd4dabbd30a0171269f4aeeea99",
+      "bytes": 223413,
+      "role": "Native app icon (desktop/iOS set; source of truth for src-tauri/icons in the rewrite)"
+    },
+    {
+      "source": "src-tauri/icons/Square44x44Logo.png",
+      "destination": "public/native/icons/Square44x44Logo.png",
+      "sha256": "dce69f1e55ed6c5088bfaa2d75e06e55115abe315856decfedc5de0c8cf51e4a",
+      "bytes": 6259,
+      "role": "Native app icon (desktop/iOS set; source of truth for src-tauri/icons in the rewrite)"
+    },
+    {
+      "source": "src-tauri/icons/Square71x71Logo.png",
+      "destination": "public/native/icons/Square71x71Logo.png",
+      "sha256": "07c547483772403bb251c594baee48c2edb569609ff347428e777bc062693960",
+      "bytes": 15209,
+      "role": "Native app icon (desktop/iOS set; source of truth for src-tauri/icons in the rewrite)"
+    },
+    {
+      "source": "src-tauri/icons/Square89x89Logo.png",
+      "destination": "public/native/icons/Square89x89Logo.png",
+      "sha256": "de2aba74824eeec57a165733e3919a225e48ce1eb267238a53211bd6c699c0b7",
+      "bytes": 23389,
+      "role": "Native app icon (desktop/iOS set; source of truth for src-tauri/icons in the rewrite)"
+    },
+    {
+      "source": "src-tauri/icons/StoreLogo.png",
+      "destination": "public/native/icons/StoreLogo.png",
+      "sha256": "65e95acc9ad37ef55b4fd59d090cb4f1897c757b4c033dd2bd61b31939022e8a",
+      "bytes": 7961,
+      "role": "Native app icon (desktop/iOS set; source of truth for src-tauri/icons in the rewrite)"
+    },
+    {
+      "source": "src-tauri/icons/icon.icns",
+      "destination": "public/native/icons/icon.icns",
+      "sha256": "da363ba396efa66167c25e1e2046927411f4765054717a9296134b328e1cd529",
+      "bytes": 3375132,
+      "role": "Native app icon (desktop/iOS set; source of truth for src-tauri/icons in the rewrite)"
+    },
+    {
+      "source": "src-tauri/icons/icon.ico",
+      "destination": "public/native/icons/icon.ico",
+      "sha256": "0deae80a89b80482cd7816056d97179eb8b4fb6ab81bfa1e52954c16ce990a56",
+      "bytes": 187032,
+      "role": "Native app icon (desktop/iOS set; source of truth for src-tauri/icons in the rewrite)"
+    },
+    {
+      "source": "src-tauri/icons/icon.png",
+      "destination": "public/native/icons/icon.png",
+      "sha256": "d5a17305362ba7ad45febf2a0d0a70604c684217542868e7cd259535bea6d894",
+      "bytes": 547168,
+      "role": "Native app icon (desktop/iOS set; source of truth for src-tauri/icons in the rewrite)"
+    },
+    {
+      "source": "src-tauri/icons/ios/AppIcon-20x20@1x.png",
+      "destination": "public/native/icons/ios/AppIcon-20x20@1x.png",
+      "sha256": "1062d1be2b124ffab82c55476094bc691fc93ec926312f340ec492d233058e65",
+      "bytes": 1425,
+      "role": "Native iOS app icon"
+    },
+    {
+      "source": "src-tauri/icons/ios/AppIcon-20x20@2x-1.png",
+      "destination": "public/native/icons/ios/AppIcon-20x20@2x-1.png",
+      "sha256": "cf94144f506420993366dccd5efd7b814a7ec92fd429be6d3b55428594ed5f9d",
+      "bytes": 5086,
+      "role": "Native iOS app icon"
+    },
+    {
+      "source": "src-tauri/icons/ios/AppIcon-20x20@2x.png",
+      "destination": "public/native/icons/ios/AppIcon-20x20@2x.png",
+      "sha256": "cf94144f506420993366dccd5efd7b814a7ec92fd429be6d3b55428594ed5f9d",
+      "bytes": 5086,
+      "role": "Native iOS app icon"
+    },
+    {
+      "source": "src-tauri/icons/ios/AppIcon-20x20@3x.png",
+      "destination": "public/native/icons/ios/AppIcon-20x20@3x.png",
+      "sha256": "6f02d515249fc8b24b3bc751f23cbf1b46fbf9416fa4dc30e26a20fa1a6bc1e2",
+      "bytes": 10869,
+      "role": "Native iOS app icon"
+    },
+    {
+      "source": "src-tauri/icons/ios/AppIcon-29x29@1x.png",
+      "destination": "public/native/icons/ios/AppIcon-29x29@1x.png",
+      "sha256": "c972165e7c4731a550562b2abd69e87b3b8475162ae0e1a5e3518c2a049792ee",
+      "bytes": 2822,
+      "role": "Native iOS app icon"
+    },
+    {
+      "source": "src-tauri/icons/ios/AppIcon-29x29@2x-1.png",
+      "destination": "public/native/icons/ios/AppIcon-29x29@2x-1.png",
+      "sha256": "088c4de34506eb4b22d53c3a301dec49c4440af3a1bb310c77f42a388320b877",
+      "bytes": 10237,
+      "role": "Native iOS app icon"
+    },
+    {
+      "source": "src-tauri/icons/ios/AppIcon-29x29@2x.png",
+      "destination": "public/native/icons/ios/AppIcon-29x29@2x.png",
+      "sha256": "088c4de34506eb4b22d53c3a301dec49c4440af3a1bb310c77f42a388320b877",
+      "bytes": 10237,
+      "role": "Native iOS app icon"
+    },
+    {
+      "source": "src-tauri/icons/ios/AppIcon-29x29@3x.png",
+      "destination": "public/native/icons/ios/AppIcon-29x29@3x.png",
+      "sha256": "284effb9fcf14a2e1548fcbaa0512c4b315f33fded08f65612990a932fff5212",
+      "bytes": 22024,
+      "role": "Native iOS app icon"
+    },
+    {
+      "source": "src-tauri/icons/ios/AppIcon-40x40@1x.png",
+      "destination": "public/native/icons/ios/AppIcon-40x40@1x.png",
+      "sha256": "cf94144f506420993366dccd5efd7b814a7ec92fd429be6d3b55428594ed5f9d",
+      "bytes": 5086,
+      "role": "Native iOS app icon"
+    },
+    {
+      "source": "src-tauri/icons/ios/AppIcon-40x40@2x-1.png",
+      "destination": "public/native/icons/ios/AppIcon-40x40@2x-1.png",
+      "sha256": "9837e9a958adc9704f5b6b7d8aec966b09f2be127529ca4b5ed033999690cbbd",
+      "bytes": 18767,
+      "role": "Native iOS app icon"
+    },
+    {
+      "source": "src-tauri/icons/ios/AppIcon-40x40@2x.png",
+      "destination": "public/native/icons/ios/AppIcon-40x40@2x.png",
+      "sha256": "9837e9a958adc9704f5b6b7d8aec966b09f2be127529ca4b5ed033999690cbbd",
+      "bytes": 18767,
+      "role": "Native iOS app icon"
+    },
+    {
+      "source": "src-tauri/icons/ios/AppIcon-40x40@3x.png",
+      "destination": "public/native/icons/ios/AppIcon-40x40@3x.png",
+      "sha256": "c4ed5f01f60c74387b4bbc4b9cd9780ed591a6517764344677254ea8ebf9640a",
+      "bytes": 39849,
+      "role": "Native iOS app icon"
+    },
+    {
+      "source": "src-tauri/icons/ios/AppIcon-512@2x.png",
+      "destination": "public/native/icons/ios/AppIcon-512@2x.png",
+      "sha256": "f956b9cf36e2e71dfa21fa51daf46f7fd9b867757c0b4a591a848cef221e2fdc",
+      "bytes": 1877224,
+      "role": "Native iOS app icon"
+    },
+    {
+      "source": "src-tauri/icons/ios/AppIcon-60x60@2x.png",
+      "destination": "public/native/icons/ios/AppIcon-60x60@2x.png",
+      "sha256": "c4ed5f01f60c74387b4bbc4b9cd9780ed591a6517764344677254ea8ebf9640a",
+      "bytes": 39849,
+      "role": "Native iOS app icon"
+    },
+    {
+      "source": "src-tauri/icons/ios/AppIcon-60x60@3x.png",
+      "destination": "public/native/icons/ios/AppIcon-60x60@3x.png",
+      "sha256": "3aada66564c34359a2a12a7e736f2390bce6ceffea76b605a635131247b88dd3",
+      "bytes": 83841,
+      "role": "Native iOS app icon"
+    },
+    {
+      "source": "src-tauri/icons/ios/AppIcon-76x76@1x.png",
+      "destination": "public/native/icons/ios/AppIcon-76x76@1x.png",
+      "sha256": "34d5bed9d410cb834a5e26b647d722712b47849034e7a6c3758bed7972b890ba",
+      "bytes": 17029,
+      "role": "Native iOS app icon"
+    },
+    {
+      "source": "src-tauri/icons/ios/AppIcon-76x76@2x.png",
+      "destination": "public/native/icons/ios/AppIcon-76x76@2x.png",
+      "sha256": "812afe9dc31bc6d9217ead7de91f808d1bac3b16a8efd536c863879b7b0cbf22",
+      "bytes": 61701,
+      "role": "Native iOS app icon"
+    },
+    {
+      "source": "src-tauri/icons/ios/AppIcon-83.5x83.5@2x.png",
+      "destination": "public/native/icons/ios/AppIcon-83.5x83.5@2x.png",
+      "sha256": "6056e275e44a587a6a72b217dddbb3daf8e7ae104ae0e14e37fcf735ef34f4f8",
+      "bytes": 73061,
+      "role": "Native iOS app icon"
+    },
+    {
+      "source": "src-tauri/gen/android/app/src/main/res/mipmap-hdpi/ic_launcher.png",
+      "destination": "public/native/android-res/mipmap-hdpi/ic_launcher.png",
+      "sha256": "6528aed8f623396061d2ec87fc9a6150e9348385d1e5cf2412f9737eee25c69e",
+      "bytes": 5669,
+      "role": "Android launcher icon (mipmap; ic_launcher/ic_launcher_round/ic_launcher_foreground)"
+    },
+    {
+      "source": "src-tauri/gen/android/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png",
+      "destination": "public/native/android-res/mipmap-hdpi/ic_launcher_foreground.png",
+      "sha256": "2038f9cfb3da45e9e02cce611e29a494590e05639b14813f1699b59cfe760e1f",
+      "bytes": 70257,
+      "role": "Android launcher icon (mipmap; ic_launcher/ic_launcher_round/ic_launcher_foreground)"
+    },
+    {
+      "source": "src-tauri/gen/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png",
+      "destination": "public/native/android-res/mipmap-hdpi/ic_launcher_round.png",
+      "sha256": "21704d288e3cced55eb0fb88df3c284fc9b1497a508a2e26bac9a0458c18e908",
+      "bytes": 5491,
+      "role": "Android launcher icon (mipmap; ic_launcher/ic_launcher_round/ic_launcher_foreground)"
+    },
+    {
+      "source": "src-tauri/gen/android/app/src/main/res/mipmap-mdpi/ic_launcher.png",
+      "destination": "public/native/android-res/mipmap-mdpi/ic_launcher.png",
+      "sha256": "3a6a3ea89c1051edfba8f50752cbcac7c1255da5c84530a85c6c808d15908554",
+      "bytes": 5411,
+      "role": "Android launcher icon (mipmap; ic_launcher/ic_launcher_round/ic_launcher_foreground)"
+    },
+    {
+      "source": "src-tauri/gen/android/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png",
+      "destination": "public/native/android-res/mipmap-mdpi/ic_launcher_foreground.png",
+      "sha256": "f74ff7ef0e1da8de2761e3836d87e08470b1951d35acc377a2473cfb2b384bc1",
+      "bytes": 33518,
+      "role": "Android launcher icon (mipmap; ic_launcher/ic_launcher_round/ic_launcher_foreground)"
+    },
+    {
+      "source": "src-tauri/gen/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png",
+      "destination": "public/native/android-res/mipmap-mdpi/ic_launcher_round.png",
+      "sha256": "c6093df6ff6ac749e63143940473f469f6378b191898ae26dd494f7559858448",
+      "bytes": 5226,
+      "role": "Android launcher icon (mipmap; ic_launcher/ic_launcher_round/ic_launcher_foreground)"
+    },
+    {
+      "source": "src-tauri/gen/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png",
+      "destination": "public/native/android-res/mipmap-xhdpi/ic_launcher.png",
+      "sha256": "60df64696f8c7f5d95b00a608489b6070b63dca40ae9c8ba92e89be103060487",
+      "bytes": 19749,
+      "role": "Android launcher icon (mipmap; ic_launcher/ic_launcher_round/ic_launcher_foreground)"
+    },
+    {
+      "source": "src-tauri/gen/android/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png",
+      "destination": "public/native/android-res/mipmap-xhdpi/ic_launcher_foreground.png",
+      "sha256": "2817867f725614d5617290dba27ffd63d8ecb3eb3873086af25e42145b3a9d58",
+      "bytes": 117328,
+      "role": "Android launcher icon (mipmap; ic_launcher/ic_launcher_round/ic_launcher_foreground)"
+    },
+    {
+      "source": "src-tauri/gen/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png",
+      "destination": "public/native/android-res/mipmap-xhdpi/ic_launcher_round.png",
+      "sha256": "6bfe22756ce89caa57944080ba93de502970f4510a403808c2b94031ccc26c9b",
+      "bytes": 19344,
+      "role": "Android launcher icon (mipmap; ic_launcher/ic_launcher_round/ic_launcher_foreground)"
+    },
+    {
+      "source": "src-tauri/gen/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png",
+      "destination": "public/native/android-res/mipmap-xxhdpi/ic_launcher.png",
+      "sha256": "24540bff12148fc57ef9426204b3ba8ad577b5ab299df56251ce2cf50b14b708",
+      "bytes": 41697,
+      "role": "Android launcher icon (mipmap; ic_launcher/ic_launcher_round/ic_launcher_foreground)"
+    },
+    {
+      "source": "src-tauri/gen/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png",
+      "destination": "public/native/android-res/mipmap-xxhdpi/ic_launcher_foreground.png",
+      "sha256": "6de11c6374b2ca789187610707cba9f7026bf8e25f74ededf7a40e48a53412a8",
+      "bytes": 241564,
+      "role": "Android launcher icon (mipmap; ic_launcher/ic_launcher_round/ic_launcher_foreground)"
+    },
+    {
+      "source": "src-tauri/gen/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png",
+      "destination": "public/native/android-res/mipmap-xxhdpi/ic_launcher_round.png",
+      "sha256": "8643e605ce5514b75a933ce81a86c85b0afe0198564cc2c44f93527519e52066",
+      "bytes": 41349,
+      "role": "Android launcher icon (mipmap; ic_launcher/ic_launcher_round/ic_launcher_foreground)"
+    },
+    {
+      "source": "src-tauri/gen/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
+      "destination": "public/native/android-res/mipmap-xxxhdpi/ic_launcher.png",
+      "sha256": "39043065a53565a4be50c8ed3deb65dbebf70f46384976a835e43632f89e8156",
+      "bytes": 70453,
+      "role": "Android launcher icon (mipmap; ic_launcher/ic_launcher_round/ic_launcher_foreground)"
+    },
+    {
+      "source": "src-tauri/gen/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png",
+      "destination": "public/native/android-res/mipmap-xxxhdpi/ic_launcher_foreground.png",
+      "sha256": "aa01507ec0d012b21821040da95d2d49d78a71c23c3584e4082f985f31904982",
+      "bytes": 403189,
+      "role": "Android launcher icon (mipmap; ic_launcher/ic_launcher_round/ic_launcher_foreground)"
+    },
+    {
+      "source": "src-tauri/gen/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png",
+      "destination": "public/native/android-res/mipmap-xxxhdpi/ic_launcher_round.png",
+      "sha256": "00d0293409058345aeb372cda34bce994ef0e1b0f935d70d0dad7b04aa161ca6",
+      "bytes": 70329,
+      "role": "Android launcher icon (mipmap; ic_launcher/ic_launcher_round/ic_launcher_foreground)"
+    },
+    {
+      "source": "src-tauri/gen/android/app/src/main/res/drawable-nodpi/natally_guide.png",
+      "destination": "public/native/android-res/drawable-nodpi/natally_guide.png",
+      "sha256": "ef4399c7a0fa94efaf9409200d169bbafece47bcc0466a5899ef56a9812164f6",
+      "bytes": 379564,
+      "role": "Android opening-animation guide drawable (chart-composed guide variant)"
+    }
+  ],
+  "externalAssets": [
+    {
+      "id": "supertonic-tts-onnx",
+      "kind": "voice model (runtime download; never committed to the source repo)",
+      "model": "onnx-community/Supertonic-TTS-ONNX",
+      "revision": "cff123c84b0655d9d647641f1b532c3cbb8f7faa",
+      "downloadBase": "https://huggingface.co/onnx-community/Supertonic-TTS-ONNX/resolve/cff123c84b0655d9d647641f1b532c3cbb8f7faa/",
+      "voice": "F4 (speed 0.9); voice blobs at downloadBase + voices/<VOICE>.bin",
+      "files": {
+        "config.json": 247,
+        "tokenizer.json": 2038,
+        "tokenizer_config.json": 119,
+        "onnx/latent_denoiser.onnx": 398102,
+        "onnx/latent_denoiser.onnx_data": 132098880,
+        "onnx/text_encoder.onnx": 433169,
+        "onnx/text_encoder.onnx_data": 28426752,
+        "onnx/voice_decoder.onnx": 59921,
+        "onnx/voice_decoder.onnx_data": 101353472
+      },
+      "expectedTotalBytes": 234345948,
+      "runtime": "@huggingface/transformers@4.3.1 (npm); onnxruntime-web wasm (ort-wasm-simd-threaded.asyncify-*.wasm) supplied by the npm package at build time",
+      "note": "Actual existing download reference retained verbatim from src/services/supertonic.worker.ts / voiceMeasurements.ts / public/voice/waiting/provenance.json. No substitute or local re-upload bundled."
+    }
+  ],
+  "duplicateSourcesNotCopiedTwice": [
+    {
+      "source": "src/vendor/swisseph/wasm/{swisseph.js,swisseph.wasm,swisseph.data}",
+      "note": "byte-identical (sha256) to public/vendor/swisseph/* which was copied"
+    },
+    {
+      "source": "STANDARDIZED-NATALLY-ASSETS/atelier/assets/{natally-mascot.webp,natally-still.webp}",
+      "note": "byte-identical to public/natally-mascot.webp and public/marketing-assets/natally-still.webp"
+    },
+    {
+      "source": "LIBS/UI/STITCH/assets/natally-mascot.webp",
+      "note": "byte-identical to public/natally-mascot.webp"
+    },
+    {
+      "source": "public/paywall/natally-original.webp vs public/marketing-assets/natally-paywall-original.webp",
+      "note": "same bytes in two roles; both destinations preserved as in the original"
+    },
+    {
+      "source": "src-tauri/gen/android/.../res/mipmap-*",
+      "note": "byte-identical to build/icon-generation-*/native/android/mipmap-* build-temp output"
+    }
+  ],
+  "missingAssets": [
+    {
+      "asset": "Supertonic TTS ONNX model files + voices/F4.bin",
+      "fact": "Not present anywhere in the source repo (downloaded at runtime into browser cache). Reference recorded above; nothing to copy."
+    },
+    {
+      "asset": "Mascot sprite sheet / frame sequence",
+      "fact": "No separate frame files exist. The mascot animation is the single animated WebP (public/natally-mascot.webp, ANIM chunk) driven with the atelier puppet plates; all copied."
+    },
+    {
+      "asset": "onnxruntime-web wasm bundle",
+      "fact": "Only exists in generated dist-web/build output; provided by the onnxruntime-web npm package at build time. Not a repo asset."
+    }
+  ],
+  "excluded": [
+    {
+      "path": "public/pwa.js",
+      "reason": "service worker (generated app code)"
+    },
+    {
+      "path": "public/manifest.webmanifest",
+      "reason": "PWA app configuration; rewritten with the new app"
+    },
+    {
+      "path": "public/{privacy.html,terms.html,downloads.html,legal.css}",
+      "reason": "legal/site pages, rewrite scope (not media assets)"
+    },
+    {
+      "path": "public/googleec5be2e6c03b1d80.html",
+      "reason": "Google Search Console verification file (settings)"
+    },
+    {
+      "path": "public/downloads/release.json",
+      "reason": "generated release/updater metadata"
+    },
+    {
+      "path": "STANDARDIZED-NATALLY-ASSETS/atelier/{baseline*,companion*}.png, *.html, *.md",
+      "reason": "QA evidence captures and design-tool docs, not shipped assets"
+    },
+    {
+      "path": "LIBS/UI/**",
+      "reason": "design-tool working copies (byte-identical where they overlap the copied set)"
+    },
+    {
+      "path": "DOCS/**, scripts/e2e-date-step.png, tests/**",
+      "reason": "documentation and test evidence imagery"
+    },
+    {
+      "path": "build/**, dist/**, dist-web/**, node_modules/**, src-tauri/gen/android build intermediates",
+      "reason": "build artifacts and generated bundles"
+    },
+    {
+      "path": ".env*, firebase*, metadata.json, deploy/",
+      "reason": "settings and secrets — never copied"
+    }
+  ],
+  "licensing": {
+    "project": "Natally original material: AGPL-3.0-only (©2026 Robin L. M. Cheung, MBA); mascot/room artwork is original project material under that grant",
+    "swissEphemeris": "AGPL or professional licence choice; this project follows AGPL. Notices: public/notices/Swiss-Ephemeris-LICENSE.txt",
+    "swissephWasm": "GPL-3.0-or-later wrapper; notice: public/notices/swisseph-wasm-LICENSE.txt",
+    "playfairDisplay": "SIL Open Font License 1.1; notice: public/fonts/OFL-PlayfairDisplay.txt",
+    "otherBundled": "public/notices/THIRD-PARTY-NOTICES.txt (unchanged)"
+  },
+  "integrity": {
+    "method": "sha256 of every destination recomputed and compared equal to its source at copy time",
+    "mismatches": []
+  }
+}
