@@ -9,3 +9,5 @@ No placeholder functionality, mock customer experiences, dummy payments, or inve
 Operator-directed verification: run the actual application journeys and record them. No separate review-agent cycles or unit/smoke test work. Do not claim completion from static inspection alone.
 
 Work only within assigned file ownership. Do not let unrelated tracks collide. An explicit stop halts agents immediately. Commit and push granular completed work, preserve rollback paths, and never interpret an active correction as operator absence.
+
+Commit and push to `origin` after EVERY completed task and EVERY turn that changes files. Checkpoint unfinished changes explicitly; never label a checkpoint as completed functionality. Stage only the intended files, never credentials, runtime secret material or unrelated work. Report a failed push accurately and retain the local commit for retry; do not claim remote delivery until the push succeeds.
